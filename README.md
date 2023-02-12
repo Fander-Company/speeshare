@@ -6,7 +6,7 @@ SpeeShare Python Module - Share-Online API.
 <br />
 <p align="center">
   <a>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BriefaGa</h3>
@@ -18,7 +18,7 @@ SpeeShare Python Module - Share-Online API.
     ·
     <a href="https://github.com/Fander-Company/speeshare/issues">Bug report</a>
     ·
-    <a href="https://github.com/Fander-Company/urlshortener/issues">Feature request</a>
+    <a href="https://github.com/Fander-Company/speeshare/issues">Feature request</a>
   </p>
 </p>
 
@@ -37,9 +37,11 @@ Install package.
 sh```
 pip install speeshare```
 
+Import package
 sh```
 import speeshare as sp```
 
+Simple method <strong>LOAD</strong>
 sh```
 sp.load("fr.txt")```
 
