@@ -1,4 +1,4 @@
-# speeshare
+# Speeshare
 Easy way to share files in Python.
 SpeeShare Python Module - Share-Online API.
 
@@ -12,10 +12,7 @@ SpeeShare Python Module - Share-Online API.
   <h3 align="center">BriefaGa</h3>
 
   <p align="center">
-    <samp>A free </samp><a href="https://briefa.ga"><strong>URL Shortener (BriefaGa)</strong></a><samp> on </samp><a href="https://briefa.ga"><strong>GoTiny.cc API</strong></a>
-    <br />
-    <a href="https://github.com/robvanbakel/gotiny-api"><strong>Explore the api »</strong></a>
-    <br />
+    <samp>A free </samp><a href="https://fadcomp.tk"><strong>Speeshare</strong></a><samp> on </samp><a href="https://fadcomp.tk"><strong>Fander Company</strong></a>
     <br />
     <a href="https://github.com/Fander-Company/speeshare/issues/1">Comments</a>
     ·
@@ -32,6 +29,19 @@ SpeeShare Python Module - Share-Online API.
 * [Requests](https://requests.readthedocs.io/) - Module
 
 <br/>
+
+### Example to use
+
+Install package.
+
+sh```
+pip install speeshare```
+
+sh```
+import speeshare as sp```
+
+sh```
+sp.load("fr.txt")```
 
 ### Support
 
