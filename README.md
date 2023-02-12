@@ -12,7 +12,7 @@ SpeeShare Python Module - Share-Online API.
   <h3 align="center">Speeshare</h3>
 
   <p align="center">
-    <samp>A free </samp><a href="https://fadcomp.tk"><strong>Speeshare</strong></a><samp> on </samp><a href="https://fadcomp.tk"><strong>Fander Company</strong></a>
+    <samp>A free </samp><a href="https://fadcomp.tk"><strong>Speeshare</strong></a><samp> from </samp><a href="https://fadcomp.tk"><strong>Fander Company</strong></a>
     <br />
     <a href="https://github.com/Fander-Company/speeshare/issues/1">Comments</a>
     ·
