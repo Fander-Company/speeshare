@@ -9,7 +9,7 @@ SpeeShare Python Module - Share-Online API.
     <img src="" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">BriefaGa</h3>
+  <h3 align="center">Speeshare</h3>
 
   <p align="center">
     <samp>A free </samp><a href="https://fadcomp.tk"><strong>Speeshare</strong></a><samp> on </samp><a href="https://fadcomp.tk"><strong>Fander Company</strong></a>
