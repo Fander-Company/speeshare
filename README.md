@@ -34,22 +34,17 @@ SpeeShare Python Module - Share-Online API.
 
 Install package.
 
-<br>
-```
-pip install speeshare```
-</br>
+```pip install speeshare```
+
 
 Import package
-<br>
-```
-import speeshare as sp```
-</br>
+
+```import speeshare as sp```
+
 
 Simple method <strong>LOAD</strong>
-<br>
-```
-sp.load("fr.txt")```
-</br>
+
+```sp.load("fr.txt")```
 
 ### Support
 
