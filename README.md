@@ -6,7 +6,7 @@ SpeeShare Python Module - Share-Online API.
 <br />
 <p align="center">
   <a>
-    <img src="" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/996131130212352071/1074568653439250472/c8c34ebc5c2844b9.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Speeshare</h3>
